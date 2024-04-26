@@ -5,7 +5,7 @@
   <a href="https://odzyoba4.github.io/resume/"><img src="https://img.shields.io/badge/-RESUME-000080?&style=for-the-badge&logoColor=white" />
 
 I am a student with a profound interest in game and software systems.
-<h2>Relevant Projects:</h2>
+<h2>Projects:</h2>
 
 - <b>Game Systems [C++]</b>
   - [Medium-Scale 3D Game Engine](https://github.com/joshmadakor1/Algorithms-Practice)
