@@ -3,7 +3,8 @@
 -->
   <a href="https://www.linkedin.com/in/ostap-dzyoba/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/ostap-dzyoba/"><img src="https://img.shields.io/badge/-RESUME-000080?&style=for-the-badge&logoColor=white" />
-  <br/>I am a student with a profound interest in game software systems and graphics programming.
+
+I am a student with a profound interest in game software systems and graphics programming.
 <h2>Relevant Projects:</h2>
 
 - <b>Game Systems [C++]</b>
