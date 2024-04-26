@@ -2,7 +2,7 @@
  <!--- <a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 -->
   <a href="https://www.linkedin.com/in/ostap-dzyoba/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/ostap-dzyoba/"><img src="https://img.shields.io/badge/-RESUME-000080?&style=for-the-badge&logoColor=white" />
+  <a href="https://odzyoba4.github.io/resume/"><img src="https://img.shields.io/badge/-RESUME-000080?&style=for-the-badge&logoColor=white" />
 
 I am a student with a profound interest in game software systems and graphics programming.
 <h2>Relevant Projects:</h2>
