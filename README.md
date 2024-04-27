@@ -9,7 +9,7 @@ I am a student with a profound interest in game and software systems.
 
 - <b>Game Systems [C++]</b>
   - [Medium-Scale 3D Game Engine](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Centipede 2D Game Replica](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Centipede 2D Game Replica](https://github.com/odzyoba4/CentipedeGame)
 - <b>Graphics Programming [C++, HLSL (DirectX)]</b>
   - [3D Graphics Engine](https://github.com/odzyoba4/DXGraphicsAPI) 
 
