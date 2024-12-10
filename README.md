@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/ostap-dzyoba/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://odzyoba4.github.io/resume/"><img src="https://img.shields.io/badge/-RESUME-000080?&style=for-the-badge&logoColor=white" />
 
-I am a student with a profound interest in game and software systems.
+I am a student programmer with a profound interest in software and game systems.
 <h2>Projects:</h2>
 
 - <b>Game Systems [C++]</b>
