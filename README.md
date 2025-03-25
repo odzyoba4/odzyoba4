@@ -6,6 +6,8 @@
 I am a student programmer with a profound interest in software and game systems.
 <h2>Projects:</h2>
 
+- <b>Game Development [C#]</b>
+  - [Unity 3D First-Person Game](https://github.com/odzyoba4/SplicerGame)
 - <b>Game Systems [C++]</b>
   - [Medium-Scale 3D Game Engine](https://github.com/odzyoba4/OdieEngine)
   - [Centipede 2D Game Replica](https://github.com/odzyoba4/CentipedeGame)
